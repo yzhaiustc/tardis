@@ -1,1 +1,36 @@
 node10
+node01
+system has 32 processor(s). 
+time elapsed: 16.003580 sec, perf: 15.621505 GFLOPS, cpu_id: 10
+time elapsed: 15.606423 sec, perf: 16.019045 GFLOPS, cpu_id: 28
+time elapsed: 15.576754 sec, perf: 16.049557 GFLOPS, cpu_id: 4
+time elapsed: 15.750701 sec, perf: 15.872310 GFLOPS, cpu_id: 8
+time elapsed: 15.569819 sec, perf: 16.056706 GFLOPS, cpu_id: 23
+time elapsed: 15.518316 sec, perf: 16.109996 GFLOPS, cpu_id: 24
+time elapsed: 15.863873 sec, perf: 15.759078 GFLOPS, cpu_id: 3
+time elapsed: 15.999295 sec, perf: 15.625689 GFLOPS, cpu_id: 15
+time elapsed: 15.689096 sec, perf: 15.934634 GFLOPS, cpu_id: 19
+time elapsed: 15.871412 sec, perf: 15.751592 GFLOPS, cpu_id: 25
+time elapsed: 15.918447 sec, perf: 15.705049 GFLOPS, cpu_id: 17
+time elapsed: 15.599673 sec, perf: 16.025977 GFLOPS, cpu_id: 20
+time elapsed: 15.646530 sec, perf: 15.977983 GFLOPS, cpu_id: 27
+time elapsed: 15.623985 sec, perf: 16.001040 GFLOPS, cpu_id: 29
+time elapsed: 15.760542 sec, perf: 15.862399 GFLOPS, cpu_id: 9
+time elapsed: 15.978687 sec, perf: 15.645841 GFLOPS, cpu_id: 7
+time elapsed: 15.953102 sec, perf: 15.670933 GFLOPS, cpu_id: 6
+time elapsed: 15.632061 sec, perf: 15.992773 GFLOPS, cpu_id: 16
+time elapsed: 16.013414 sec, perf: 15.611912 GFLOPS, cpu_id: 1
+time elapsed: 15.939264 sec, perf: 15.684539 GFLOPS, cpu_id: 22
+time elapsed: 15.659432 sec, perf: 15.964819 GFLOPS, cpu_id: 31
+time elapsed: 15.991875 sec, perf: 15.632939 GFLOPS, cpu_id: 12
+time elapsed: 16.026565 sec, perf: 15.599101 GFLOPS, cpu_id: 14
+time elapsed: 15.618573 sec, perf: 16.006584 GFLOPS, cpu_id: 5
+time elapsed: 15.882940 sec, perf: 15.740159 GFLOPS, cpu_id: 21
+time elapsed: 16.021217 sec, perf: 15.604308 GFLOPS, cpu_id: 0
+time elapsed: 15.687025 sec, perf: 15.936738 GFLOPS, cpu_id: 11
+time elapsed: 15.922212 sec, perf: 15.701336 GFLOPS, cpu_id: 2
+time elapsed: 15.640854 sec, perf: 15.983782 GFLOPS, cpu_id: 18
+time elapsed: 16.037519 sec, perf: 15.588446 GFLOPS, cpu_id: 26
+time elapsed: 16.053115 sec, perf: 15.573302 GFLOPS, cpu_id: 13
+time elapsed: 16.290423 sec, perf: 15.346440 GFLOPS, cpu_id: 30
+node10

@@ -1,1 +1,35 @@
 node08
+system has 32 processor(s). 
+time elapsed: 15.572190 sec, perf: 16.054261 GFLOPS, cpu_id: 6
+time elapsed: 16.144119 sec, perf: 15.485515 GFLOPS, cpu_id: 14
+time elapsed: 15.632471 sec, perf: 15.992354 GFLOPS, cpu_id: 0
+time elapsed: 15.597179 sec, perf: 16.028539 GFLOPS, cpu_id: 11
+time elapsed: 15.595320 sec, perf: 16.030450 GFLOPS, cpu_id: 20
+time elapsed: 16.104747 sec, perf: 15.523373 GFLOPS, cpu_id: 4
+time elapsed: 15.511681 sec, perf: 16.116887 GFLOPS, cpu_id: 23
+time elapsed: 15.576362 sec, perf: 16.049961 GFLOPS, cpu_id: 7
+time elapsed: 15.654403 sec, perf: 15.969948 GFLOPS, cpu_id: 16
+time elapsed: 16.029296 sec, perf: 15.596443 GFLOPS, cpu_id: 28
+time elapsed: 15.751694 sec, perf: 15.871309 GFLOPS, cpu_id: 18
+time elapsed: 15.752470 sec, perf: 15.870527 GFLOPS, cpu_id: 3
+time elapsed: 15.815271 sec, perf: 15.807507 GFLOPS, cpu_id: 5
+time elapsed: 15.838304 sec, perf: 15.784519 GFLOPS, cpu_id: 24
+time elapsed: 15.933870 sec, perf: 15.689848 GFLOPS, cpu_id: 10
+time elapsed: 16.234349 sec, perf: 15.399447 GFLOPS, cpu_id: 26
+time elapsed: 16.203486 sec, perf: 15.428778 GFLOPS, cpu_id: 22
+time elapsed: 15.878215 sec, perf: 15.744843 GFLOPS, cpu_id: 21
+time elapsed: 16.149162 sec, perf: 15.480679 GFLOPS, cpu_id: 27
+time elapsed: 16.171662 sec, perf: 15.459141 GFLOPS, cpu_id: 15
+time elapsed: 15.612796 sec, perf: 16.012506 GFLOPS, cpu_id: 19
+time elapsed: 16.174454 sec, perf: 15.456472 GFLOPS, cpu_id: 31
+time elapsed: 16.096324 sec, perf: 15.531497 GFLOPS, cpu_id: 17
+time elapsed: 16.355656 sec, perf: 15.285232 GFLOPS, cpu_id: 8
+time elapsed: 16.263515 sec, perf: 15.371831 GFLOPS, cpu_id: 29
+time elapsed: 16.137498 sec, perf: 15.491868 GFLOPS, cpu_id: 25
+time elapsed: 16.480826 sec, perf: 15.169142 GFLOPS, cpu_id: 13
+time elapsed: 16.383493 sec, perf: 15.259261 GFLOPS, cpu_id: 9
+time elapsed: 16.497948 sec, perf: 15.153400 GFLOPS, cpu_id: 30
+time elapsed: 16.549863 sec, perf: 15.105865 GFLOPS, cpu_id: 1
+time elapsed: 16.286130 sec, perf: 15.350486 GFLOPS, cpu_id: 2
+time elapsed: 16.365631 sec, perf: 15.275916 GFLOPS, cpu_id: 12
+node08
