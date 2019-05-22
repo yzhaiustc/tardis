@@ -1,0 +1,11 @@
+echo sbatch submit_01.sjob >> run.sh
+echo sbatch submit_02.sjob >> run.sh
+echo sbatch submit_03.sjob >> run.sh
+echo sbatch submit_04.sjob >> run.sh
+echo sbatch submit_05.sjob >> run.sh
+echo sbatch submit_06.sjob >> run.sh
+echo sbatch submit_07.sjob >> run.sh
+echo sbatch submit_08.sjob >> run.sh
+echo sbatch submit_09.sjob >> run.sh
+echo sbatch submit_10.sjob >> run.sh
+echo sbatch submit_11.sjob >> run.sh
