@@ -1,4 +1,3 @@
-node09
 system has 32 processor(s). 
 time elapsed: 16.296899 sec, perf: 15.340342 GFLOPS, cpu_id: 29
 time elapsed: 16.730168 sec, perf: 14.943066 GFLOPS, cpu_id: 9

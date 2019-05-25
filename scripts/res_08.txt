@@ -1,4 +1,3 @@
-gpu01
 system has 32 processor(s). 
 time elapsed: 19.627192 sec, perf: 12.737430 GFLOPS, cpu_id: 3
 time elapsed: 19.141792 sec, perf: 13.060428 GFLOPS, cpu_id: 26

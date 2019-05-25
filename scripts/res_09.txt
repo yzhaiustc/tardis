@@ -1,4 +1,3 @@
-gpu02
 system has 32 processor(s). 
 time elapsed: 19.318701 sec, perf: 12.940829 GFLOPS, cpu_id: 25
 time elapsed: 19.331329 sec, perf: 12.932375 GFLOPS, cpu_id: 13

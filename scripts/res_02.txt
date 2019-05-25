@@ -1,4 +1,3 @@
-node03
 system has 32 processor(s). 
 time elapsed: 15.562637 sec, perf: 16.064115 GFLOPS, cpu_id: 22
 time elapsed: 15.863901 sec, perf: 15.759050 GFLOPS, cpu_id: 17

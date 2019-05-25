@@ -1,4 +1,3 @@
-node04
 system has 32 processor(s). 
 time elapsed: 16.834385 sec, perf: 14.850558 GFLOPS, cpu_id: 14
 time elapsed: 15.642440 sec, perf: 15.982161 GFLOPS, cpu_id: 11

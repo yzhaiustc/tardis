@@ -1,4 +1,3 @@
-node08
 system has 32 processor(s). 
 time elapsed: 15.572190 sec, perf: 16.054261 GFLOPS, cpu_id: 6
 time elapsed: 16.144119 sec, perf: 15.485515 GFLOPS, cpu_id: 14

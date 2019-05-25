@@ -1,5 +1,3 @@
-node10
-node01
 system has 32 processor(s). 
 time elapsed: 16.003580 sec, perf: 15.621505 GFLOPS, cpu_id: 10
 time elapsed: 15.606423 sec, perf: 16.019045 GFLOPS, cpu_id: 28

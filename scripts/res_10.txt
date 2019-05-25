@@ -1,4 +1,3 @@
-gpu03
 system has 32 processor(s). 
 time elapsed: 19.191102 sec, perf: 13.026870 GFLOPS, cpu_id: 14
 time elapsed: 19.109927 sec, perf: 13.082206 GFLOPS, cpu_id: 3

@@ -1,4 +1,3 @@
-node07
 system has 32 processor(s). 
 time elapsed: 15.471882 sec, perf: 16.158345 GFLOPS, cpu_id: 30
 time elapsed: 15.953500 sec, perf: 15.670543 GFLOPS, cpu_id: 10
