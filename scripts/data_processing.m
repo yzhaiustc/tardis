@@ -120,3 +120,16 @@ xlim([1 11])
 xlabel('node index')
 ylabel('Percentage %')
 title('relative fluctuation % by node')
+
+figure;
+hold on
+curr_data_tmp = range_perf ./ mean_perf;
+for i = 1 : 32
+    scatter(1:11, curr_data_tmp(:, i));
+end
+
+plot(curr_data_tmp);
+xlabel('node index')
+ylabel('Percentage %')
+xlim([1 11])
+title('relative fluactuation by node/cpu')
