@@ -473,7 +473,7 @@ time elapsed: 19.246263 sec, perf: 12.989535 GFLOPS, cpu_id: 21
 time elapsed: 19.094336 sec, perf: 13.092888 GFLOPS, cpu_id: 2
 time elapsed: 19.392367 sec, perf: 12.891670 GFLOPS, cpu_id: 17
 time elapsed: 22.118169 sec, perf: 11.302925 GFLOPS, cpu_id: 4
-gpu04
+node18
 system has 32 processor(s). 
 time elapsed: 18.683248 sec, perf: 13.380971 GFLOPS, cpu_id: 2
 time elapsed: 19.072690 sec, perf: 13.107747 GFLOPS, cpu_id: 21
@@ -507,7 +507,7 @@ time elapsed: 19.331558 sec, perf: 12.932222 GFLOPS, cpu_id: 6
 time elapsed: 19.403565 sec, perf: 12.884230 GFLOPS, cpu_id: 12
 time elapsed: 20.117699 sec, perf: 12.426868 GFLOPS, cpu_id: 8
 time elapsed: 20.033783 sec, perf: 12.478921 GFLOPS, cpu_id: 18
-gpu04
+node18
 system has 32 processor(s). 
 time elapsed: 18.523921 sec, perf: 13.496062 GFLOPS, cpu_id: 7
 time elapsed: 19.182215 sec, perf: 13.032905 GFLOPS, cpu_id: 21
@@ -541,7 +541,7 @@ time elapsed: 19.188574 sec, perf: 13.028587 GFLOPS, cpu_id: 23
 time elapsed: 19.636163 sec, perf: 12.731612 GFLOPS, cpu_id: 28
 time elapsed: 22.064290 sec, perf: 11.330526 GFLOPS, cpu_id: 8
 time elapsed: 22.249278 sec, perf: 11.236320 GFLOPS, cpu_id: 0
-gpu04
+node18
 system has 32 processor(s). 
 time elapsed: 15.289105 sec, perf: 16.351513 GFLOPS, cpu_id: 16
 time elapsed: 16.324028 sec, perf: 15.314848 GFLOPS, cpu_id: 23
@@ -779,7 +779,7 @@ time elapsed: 19.135588 sec, perf: 13.064662 GFLOPS, cpu_id: 9
 time elapsed: 19.001050 sec, perf: 13.157167 GFLOPS, cpu_id: 22
 time elapsed: 19.039699 sec, perf: 13.130460 GFLOPS, cpu_id: 20
 time elapsed: 19.168386 sec, perf: 13.042308 GFLOPS, cpu_id: 6
-gpu04
+node18
 system has 32 processor(s). 
 time elapsed: 18.526634 sec, perf: 13.494087 GFLOPS, cpu_id: 3
 time elapsed: 18.531122 sec, perf: 13.490818 GFLOPS, cpu_id: 7
@@ -813,7 +813,7 @@ time elapsed: 19.600351 sec, perf: 12.754874 GFLOPS, cpu_id: 4
 time elapsed: 19.377779 sec, perf: 12.901375 GFLOPS, cpu_id: 20
 time elapsed: 19.283137 sec, perf: 12.964695 GFLOPS, cpu_id: 2
 time elapsed: 21.129636 sec, perf: 11.831723 GFLOPS, cpu_id: 28
-gpu02
+node16
 system has 32 processor(s). 
 time elapsed: 18.665777 sec, perf: 13.393495 GFLOPS, cpu_id: 7
 time elapsed: 19.443088 sec, perf: 12.858040 GFLOPS, cpu_id: 10
@@ -847,7 +847,7 @@ time elapsed: 19.521243 sec, perf: 12.806561 GFLOPS, cpu_id: 13
 time elapsed: 19.549640 sec, perf: 12.787959 GFLOPS, cpu_id: 0
 time elapsed: 19.393871 sec, perf: 12.890671 GFLOPS, cpu_id: 25
 time elapsed: 19.573323 sec, perf: 12.772486 GFLOPS, cpu_id: 12
-gpu01
+node15
 system has 32 processor(s). 
 time elapsed: 19.384985 sec, perf: 12.896579 GFLOPS, cpu_id: 9
 time elapsed: 19.359583 sec, perf: 12.913501 GFLOPS, cpu_id: 12
@@ -881,7 +881,7 @@ time elapsed: 19.405623 sec, perf: 12.882864 GFLOPS, cpu_id: 23
 time elapsed: 19.371922 sec, perf: 12.905276 GFLOPS, cpu_id: 15
 time elapsed: 19.129631 sec, perf: 13.068731 GFLOPS, cpu_id: 0
 time elapsed: 20.457698 sec, perf: 12.220339 GFLOPS, cpu_id: 26
-gpu01
+node15
 system has 32 processor(s). 
 time elapsed: 19.316373 sec, perf: 12.942389 GFLOPS, cpu_id: 30
 time elapsed: 19.026033 sec, perf: 13.139891 GFLOPS, cpu_id: 11
@@ -915,7 +915,7 @@ time elapsed: 19.004501 sec, perf: 13.154778 GFLOPS, cpu_id: 5
 time elapsed: 18.992092 sec, perf: 13.163373 GFLOPS, cpu_id: 10
 time elapsed: 19.002925 sec, perf: 13.155869 GFLOPS, cpu_id: 16
 time elapsed: 19.182700 sec, perf: 13.032576 GFLOPS, cpu_id: 21
-gpu01
+node15
 system has 32 processor(s). 
 time elapsed: 15.905741 sec, perf: 15.717595 GFLOPS, cpu_id: 24
 time elapsed: 15.866727 sec, perf: 15.756242 GFLOPS, cpu_id: 2
@@ -1119,7 +1119,7 @@ time elapsed: 19.574088 sec, perf: 12.771987 GFLOPS, cpu_id: 7
 time elapsed: 19.630292 sec, perf: 12.735420 GFLOPS, cpu_id: 6
 time elapsed: 19.550751 sec, perf: 12.787232 GFLOPS, cpu_id: 28
 time elapsed: 20.052870 sec, perf: 12.467043 GFLOPS, cpu_id: 29
-gpu02
+node16
 system has 32 processor(s). 
 time elapsed: 19.391068 sec, perf: 12.892534 GFLOPS, cpu_id: 27
 time elapsed: 19.422403 sec, perf: 12.871734 GFLOPS, cpu_id: 31
@@ -1153,7 +1153,7 @@ time elapsed: 19.384851 sec, perf: 12.896669 GFLOPS, cpu_id: 29
 time elapsed: 19.162063 sec, perf: 13.046612 GFLOPS, cpu_id: 5
 time elapsed: 19.682710 sec, perf: 12.701503 GFLOPS, cpu_id: 17
 time elapsed: 19.536171 sec, perf: 12.796776 GFLOPS, cpu_id: 16
-gpu03
+node17
 system has 32 processor(s). 
 time elapsed: 16.451295 sec, perf: 15.196372 GFLOPS, cpu_id: 7
 time elapsed: 16.057980 sec, perf: 15.568583 GFLOPS, cpu_id: 16
